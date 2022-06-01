@@ -62,7 +62,7 @@ public class Main {
         Webm.setNews("Паблик добавил новые видеозаписи" + "\n");
         It.setNews("IT - специалисты из России стали крайне востребованными в США" + "\n");
         Rip.setNews("MGK и новый альбом - " + "Hotel Diablo" + "\n");
-        Tatoo.setNews("Эскины татуировок в новом стиле Blood" + "\n");
+        Tatoo.setNews("Эскизы татуировок в новом стиле Blood" + "\n");
 
     }
 }
